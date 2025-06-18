@@ -29,7 +29,6 @@ This project is a beginner-friendly guide to using **Pandas**, the powerful Pyth
 
 ```bash
 git clone https://github.com/SwadhaThakkar/Data-Handling-with-Pandas.git
-cd Data-Handling-with-Pandas
 ```
 
 ### 2. Install Dependencies
